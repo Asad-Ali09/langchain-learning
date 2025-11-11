@@ -741,7 +741,7 @@ wheels = [
 ]
 
 [[package]]
-name = "learninghub"
+name = "langchain-lessons"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
